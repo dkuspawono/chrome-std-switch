@@ -23,7 +23,7 @@ No.
 
 ### 2.6. What information from the underlying platform, e.g. configuration data, is exposed by this specification to an origin?
 
-When platform-specific apperance is enabled, user's platform can be detectable.  This information would be a subset of User-Agent header or `navigator.platform`.
+When platform-specific appearance is enabled, user's platform can be detectable.  This information would be a subset of User-Agent header or `navigator.platform`.
 
 ### 2.7. Does this specification allow an origin access to sensors on a user’s device
 
@@ -56,7 +56,7 @@ The feature doesn't distinguish them.  This feature won't expose new information
 
 ### 2.14. How does this specification work in the context of a user agent’s Private \ Browsing or "incognito" mode?
 
-No special handling in such modes.  It's impossible to detect the mode or fingprint with this feature.
+No special handling in such modes.  It's impossible to detect the mode or fingerprint with this feature.
 
 ### 2.15. Does this specification have a "Security Considerations" and "Privacy Considerations" section?
 
@@ -66,6 +66,6 @@ No special handling in such modes.  It's impossible to detect the mode or fingpr
 
 No.
 
-### 2.17. What should this questionnaire have asked?
+### 2.17. What should this questionare have asked?
 
 No idea of other questions.
