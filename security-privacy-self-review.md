@@ -1,9 +1,9 @@
 
-Note that security and privacy implication of this feature is same as `<input type=checkbox>`.  Also, we intend to implmeent this feature as a JavaScript module.  So it won't have new security/privacy issues
+Note that security and privacy implication of this feature is same as `<input type=checkbox>`.  Also, we intend to implement this feature as a JavaScript module.  So it won't have new security/privacy issues
 
 ### 2.1. What information might this feature expose to Web sites or other parties, and for what purposes is that exposure necessary?
 
-A user can toggle the staus of an elemenet betwen "on" and "off", and it will be included in a form submission.  The platform can't know the purppose of the status, and it depends on web applications.
+A user can toggle the status of an element between "on" and "off", and it will be included in a form submission.  The platform can't know the purpose of the status, and it depends on web applications.
 
 ### 2.2. Is this specification exposing the minimum amount of information necessary to power the feature?
 
@@ -11,7 +11,7 @@ Yes
 
 ### 2.3. How does this specification deal with personal information or personally-identifiable information or information derived thereof?
 
-The element passes user-spcified state to form submission without any modification.
+The element passes user-specified state to form submission without any modification.
 
 ### 2.4. How does this specification deal with sensitive information?
 
